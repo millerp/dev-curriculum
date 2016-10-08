@@ -6,15 +6,15 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+author: Miller P. Magalhães
+author-title: Back-end Developer
+gravatar: de1a0c0c0d269a7e1f9ed401fab9933a
+email: miller@mpdev.com.br
+twitter: Millerp_
+github: millerp
+googleplus:
+facebook: Millerp
+linkedin: imillerp/pt
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
