@@ -2,7 +2,7 @@
 
 baseurl: "" # the subpath of your site, e.g. /portfolio
 url: "" # the base hostname & protocol for your site
-language: "" # language to set into html tag, default is en
+language: "pt-br" # language to set into html tag, default is en
 
 # User settings
 
