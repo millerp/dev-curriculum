@@ -31,27 +31,23 @@ bio: "Brazilian developer. Game, music and technology lover."
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 3
-  - name: CSS 3
-    level: 3
-  - name: JavaScript
-    level: 3
-  - name: jQuery
-    level: 3
-  - name: Angular
     level: 4
+  - name: CSS 3
+    level: 4
+  - name: JavaScript
+    level: 4
+  - name: jQuery
+    level: 4
+  - name: Angular
+    level: 3
   - name: Vue.js
-    level: 1
+    level: 3
   - name: Bootstrap
     level: 4
     
 back-end:
   - name: PHP
     level: 4
-  - name: Node.js
-    level: 1
-  - name: SQL
-    level: 3
     
 mobile:
   - name: Android
@@ -59,19 +55,19 @@ mobile:
   - name: Apache Cordova
     level: 1
   - name: Ionic
-    level: 2
+    level: 3
 
 db:
   - name: MySQL
-    level: 3
+    level: 4
   - name: PostgreSQL
-    level: 2
+    level: 1
   - name: MongoDB
     level: 2
   - name: SQL Server
     level: 4
   - name: NoSQL
-    level: 3
+    level: 2
 
 devops:
   - name: Docker
@@ -81,15 +77,15 @@ devops:
   - name: Git
     level: 5
   - name: Continuous Integration
-    level: 1
+    level: 3
   - name: Continuous Delivery
-    level: 1
+    level: 3
 
 methodologies:
   - name: Agile Methodologies
-    level: 2
+    level: 3
   - name: Scrum
-    level: 2
+    level: 3
     
 others:
   - name: Web Services
@@ -97,16 +93,14 @@ others:
   - name: REST
     level: 5
   - name: Symfony
-    level: 3
+    level: 4
   - name: Twig
     level: 4
   - name: Doctrine ORM
     level: 3
   - name: Laravel, Blade, Eloquent ORM
     level: 5
-  - name: Ruby on Rails
-    level: 3
-  - name: MEAN StEack
+  - name: MEAN Stack
     level: 2
 
 # Build settings
